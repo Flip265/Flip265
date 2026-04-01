@@ -6,7 +6,7 @@ I'm a developer passionate about building interesting projects and exploring new
 
 Here is a quick look at my open-source contributions and activity:
 
-![Flip265's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Upbolt&show_icons=true&theme=radical)
+![Flip265's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FlipTech9&show_icons=true&theme=radical)
 
 -----
 
