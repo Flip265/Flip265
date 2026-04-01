@@ -5,7 +5,7 @@ I'm a developer passionate about building interesting projects and exploring new
 ### 📊 My GitHub Stats
 
 Here is a quick look at my open-source contributions and activity:
-
+[![Flip265's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flip265&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -----
 
 ### 🛠 Tools & Technologies
